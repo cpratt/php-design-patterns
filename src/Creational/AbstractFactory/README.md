@@ -15,5 +15,5 @@ assume we have a TicTacToe game which
 can be printed either in the browser,
 or in the console.
 
-![alt text](https://github.com/cpratt/php-design-patterns/raw/master/src/Creational/AbstractFactory/abstractFactoryUML.png "Logo Title Text 1")
+![Abstract Factory UML Diagram](https://raw.githubusercontent.com/cpratt/php-design-patterns/master/src/Creational/AbstractFactory/abstractFactoryUML.PNG "Abstract Factory UML")
 
